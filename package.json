@@ -25,6 +25,7 @@
 	"dependencies": {
 		"@godspeedsystems/api-generator": "latest",
 		"@godspeedsystems/core": "latest",
+		"@godspeedsystems/godspeed": "^2.8.0",
 		"@godspeedsystems/plugins-axios-as-datasource": "latest",
 		"@godspeedsystems/plugins-express-as-http": "latest",
 		"@godspeedsystems/plugins-prisma-as-datastore": "latest",
